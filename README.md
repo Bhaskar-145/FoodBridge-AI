@@ -1,5 +1,4 @@
 ﻿# FoodBridge_AI
-# FoodBridge AI
 
 FoodBridge AI is an AI-powered food management and redistribution application designed to improve food safety, reduce food waste, and connect surplus food with people who need it.
 
